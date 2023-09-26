@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "udp.h": "c",
+        "bpf.h": "c",
+        "string.h": "c",
+        "strings.h": "c",
+        "if.h": "c",
+        "if_ether.h": "c",
+        "ip.h": "c",
+        "if_packet.h": "c"
+    },
+    "cmake.configureOnOpen": true
+}
