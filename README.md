@@ -2,8 +2,8 @@
 
 ## Description
 
-This is a simple packet tracer, written in C for Linux environment.
-It utilizes the Raw Socket technology, and uses the socket as the sniffer.
+This is a simple packet tracer, written in C for Linux environment.<br>
+It utilizes the Raw Socket technology, and uses the socket as the sniffer.<br>
 By default, it will process only TCP, UDP, and ICMP Packets.
 
 ## Getting Started
